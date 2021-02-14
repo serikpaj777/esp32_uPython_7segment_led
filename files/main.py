@@ -53,7 +53,7 @@ def web_page():
     html = """
 <html>
     <head>
-        <title>my ESP Access Point</title>
+        <title>my ESP32 Access Point</title>
         <style>
             .b_on_off{
                 background-color: #FF4500; /* OrangeRed */
@@ -94,7 +94,7 @@ def web_page():
     
     <body>
     <center>
-        <h1>ESP Access Point '7seg. LED'</h1>
+        <h1>ESP32 Access Point '7seg. LED'</h1>
         <a href="/?l=on"><button class="b_on_off">all on</button></a>
         <a href="/?l=off"><button class="b_on_off">all off</button></a>
         <p></p>
