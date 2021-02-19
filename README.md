@@ -10,10 +10,9 @@ esp32 + uPython + 7 segment led
 
 ---
 
-> copy files to esp32:
-> -
->> /files/boot.py	
->> /files/main.py
+ copy files to esp32:
+ * /files/boot.py	
+  * /files/main.py
    
 ---
 	
