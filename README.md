@@ -6,7 +6,7 @@ esp32 + uPython + 7 segment led
 ![](images/video.gif)
 
 
-## [uPython loader for esp32 (instuction)](https://micropython.org/download/esp32/)
+## [uPython loader for esp32 (instruction)](https://micropython.org/download/esp32/)
 
 ---
 
